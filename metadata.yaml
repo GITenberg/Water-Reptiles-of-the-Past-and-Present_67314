@@ -1,11 +1,16 @@
 _repo: Water-Reptiles-of-the-Past-and-Present_67314
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67314-h/images/cover.jpg
 creator:
   author:
     agent_name: Williston, Samuel Wendell
     gutenberg_agent_id: '54210'
     url: http://www.gutenberg.org/2009/agents/54210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67314#Water-Reptiles-of-the-Past-and-Present
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67314'
